@@ -1,0 +1,4 @@
+{
+  "text_1": "If your cat has a longer tail, you may assume that it’s a more capable animal. While there are certain advantages to a long tail, this isn’t always the case. For example, the Manx breed is known for having stubby tails. Despite this, a Manx is still as well-balanced as other cats.",
+  "text_2": "Cats are rarely purebreds. This further complicates the definition of a correct tail length for each breed. Cats may have genes that create kinked, curled, or bobbed tails. So, predicting tail length is almost impossible."  
+}
